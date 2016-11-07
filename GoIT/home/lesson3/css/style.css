@@ -41,6 +41,8 @@ body{
     color: #ebebeb;
     padding: 11px 40px;
     text-decoration: none;
+    border-left: 1px solid transparent;
+    border-right: 1px solid transparent;
 }
 
 .menu li a:hover{
