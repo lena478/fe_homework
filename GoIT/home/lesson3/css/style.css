@@ -3,7 +3,7 @@
     padding: 0;
 }
 .wrapper{
-    margin: 0 150px 0 150px;
+    margin: auto;
     height: 950px;
     width: 1066px;
     background-color: #ffffff;
@@ -65,9 +65,11 @@ body{
     padding-bottom: 10px;
 }
 .content ul li a{
+    display: block;
     text-decoration: none;
     color: #656363;
     padding-left: 25px;
+
 }
 
 .content ul li:hover{
